@@ -232,8 +232,8 @@ tep_reset_cache_block called only when default osc cache is set to true*.
 
 If you have any difficulty, issues about installation do not hesitate contacting me to:
 
-http://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon/support
+https://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon/support
 or
-http://www.johnbarounis.com/contact
+https://www.johnbarounis.com/contact
 
-Donations: http://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon/donate
+Donations: https://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon/donate
