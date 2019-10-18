@@ -2,7 +2,7 @@
 
 SEO Friendly Urls is an addon for the osCommerce CMS that will change the default urls into
 what a modern website's urls should be!
-Read more: [http://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon](http://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon)
+Read more: [https://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon](https://www.johnbarounis.com/coding/oscommerce/seo-friendly-urls-addon)
 
 # INSTALLATION GUIDE
 
